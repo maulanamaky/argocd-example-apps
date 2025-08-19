@@ -4,7 +4,7 @@ metadata:
   name: my-service
 spec:
   selector:
-    app: Mguestbook-ui
+    app: guestbook-ui
   ports:
   - protocol: TCP
     port: 80
